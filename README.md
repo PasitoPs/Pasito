@@ -2,7 +2,7 @@
 
 **Diario personal para Windows. Escribe para ti.**
 
-Pasito es una aplicación de escritorio pensada para escribir con libertad, mantener perfiles locales separados y guardar el contenido privado en el propio equipo.
+Pasito es un diario personal personalizable para que te sientas en tu propio espacio, con tus gustos y herramientas, y para que tus escritos sean lo más personales posible.
 
 > **Estado actual:** en desarrollo. Todavía no hay una versión pública para descargar.
 
@@ -56,8 +56,3 @@ El desarrollo interno se mantiene en un repositorio privado.
 ## Estado del proyecto
 
 La rama de desarrollo actual ha alcanzado la base de **v0.30**, incluyendo la infraestructura inicial para actualizaciones oficiales verificadas. La siguiente etapa es preparar el instalador de Windows y probar el flujo completo de actualización antes de publicar una beta.
-
----
-
-**Pasito**  
-_De a pasitos nos vamos entendiendo._
