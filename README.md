@@ -1,58 +1,96 @@
-# Pasito
+# Solilo
 
-**Diario personal para Windows. Escribe para ti.**
+### _by PasitoPs_
 
-Pasito es un diario personal personalizable para que te sientas en tu propio espacio, con tus gustos y herramientas, y para que tus escritos sean lo más personales posible.
+**Tu diario personal y privado para Windows.**
 
-> **Estado actual:** en desarrollo. Todavía no hay una versión pública para descargar.
+<br>
 
-## Qué busca Pasito
+## ⬇️ Descargar Solilo para Windows
 
-- Escritura personal sin cuentas obligatorias.
-- Perfiles locales independientes.
-- Datos privados almacenados en el equipo del usuario.
-- Protección de escritos y configuración privada.
-- Personalización de la experiencia.
-- Actualizaciones oficiales verificadas antes de instalarse.
+### **[👉 DESCARGAR SOLILO (última versión)](https://github.com/PasitoPs/Pasito/releases/latest)**
 
-## Privacidad
+> Este enlace lleva **siempre** a la versión más reciente. Puedes compartirlo en
+> redes sociales sin que quede obsoleto.
 
-Pasito está diseñado para funcionar de forma local. No necesita registrar correo, teléfono ni una cuenta en la nube para escribir.
+<br>
 
-Cuando exista distribución pública, la comprobación de actualizaciones consultará únicamente la infraestructura oficial de Pasito en GitHub para saber si hay una versión nueva. Esa comprobación no necesita enviar escritos, nombres de perfiles, fotos, contraseñas ni claves de recuperación.
+## ¿Qué es Solilo?
 
-Consulta [PRIVACY.md](PRIVACY.md) para más detalles.
+Solilo es un diario personal para escribir con calma. Tus escritos se guardan
+**solo en tu equipo**, cifrados, con perfiles independientes. No necesitas crear
+una cuenta ni conectarte a ninguna nube. Sin anuncios y sin seguimiento.
 
-## Actualizaciones oficiales
+<br>
 
-Las futuras versiones públicas de Pasito usarán un sistema de actualización con verificación criptográfica:
+## Cómo instalar (en 3 pasos)
 
-1. Pasito consulta la Release oficial.
-2. Verifica la firma Ed25519 del manifiesto de actualización.
-3. Comprueba tamaño y SHA-256 del instalador.
-4. Rechaza una actualización si alguna verificación falla.
-5. El usuario decide si desea instalarla.
+1. **Descarga** el instalador desde el botón de arriba
+   (`Solilo_Setup_0.34.0.exe`).
+2. **Ábrelo** y sigue el asistente. Solilo se instala para tu usuario, sin
+   permisos de administrador.
+3. **Abre Solilo** desde el menú Inicio o el acceso directo del escritorio, crea
+   tu perfil y empieza a escribir.
 
-Más información en [SECURITY.md](SECURITY.md).
+> ¿Windows muestra un aviso de "editor desconocido"? Pulsa **Más información ▸
+> Ejecutar de todas formas**. Es normal en aplicaciones nuevas aún sin firma de
+> editor.
 
-## Descargas
+<br>
 
-Todavía no existe una Release pública estable.
+## Dos formas de descargar
 
-Cuando haya una beta disponible, las descargas oficiales aparecerán únicamente en la sección **Releases** de este repositorio.
+| Opción | Para quién | Archivo |
+|---|---|---|
+| **Instalador (recomendado)** | La mayoría de las personas. Crea accesos directos y permite desinstalar fácilmente. | `Solilo_Setup_0.34.0.exe` |
+| **Portable (avanzado)** | Quien prefiera un único archivo sin instalación. | `Solilo_Portable_0.34.0.exe` |
 
-## Código fuente
+Ambas descargas están en la sección **[Releases](https://github.com/PasitoPs/Pasito/releases/latest)**.
 
-Este repositorio público **no contiene el código fuente de Pasito**. Se utiliza para información pública, documentación, futuras Releases y distribución oficial.
+<br>
 
-El desarrollo interno se mantiene en un repositorio privado.
+## Capturas de pantalla
+
+<!--
+Añadir aquí capturas reales de Solilo (pantalla de inicio, un escrito,
+personalización). Sugerencia: subir las imágenes a este repositorio en una
+carpeta `capturas/` y enlazarlas, por ejemplo:
+
+![Pantalla de inicio de Solilo](capturas/inicio.png)
+![Escribiendo en Solilo](capturas/escribir.png)
+![Personalización](capturas/personalizacion.png)
+-->
+
+_(Próximamente: capturas reales de la aplicación.)_
+
+<br>
+
+## Privacidad y seguridad
+
+- Tus escritos son **locales y cifrados**; no salen de tu equipo.
+- Solilo **no** usa cuentas, telemetría ni analítica.
+- Las actualizaciones se verifican con **firma digital** antes de instalarse.
+
+Más detalles en [PRIVACY.md](PRIVACY.md) y [SECURITY.md](SECURITY.md).
+
+<br>
+
+## Actualizaciones
+
+Solilo comprueba si hay una versión nueva consultando únicamente la Release
+oficial de este repositorio. Antes de instalar algo, verifica la firma y la
+integridad del archivo; si algo no cuadra, no instala nada. Tú decides siempre
+si quieres actualizar.
+
+<br>
 
 ## Créditos
 
-**PasitoPs** — dirección creativa, diseño y desarrollo.
+- **PasitoPs** — dirección creativa, diseño y desarrollo.
+- **Xyam (Sam)** — identidad sonora.
 
-**Xyam (Sam)** — identidad sonora.
+<br>
 
-## Estado del proyecto
+---
 
-La rama de desarrollo actual ha alcanzado la base de **v0.30**, incluyendo la infraestructura inicial para actualizaciones oficiales verificadas. La siguiente etapa es preparar el instalador de Windows y probar el flujo completo de actualización antes de publicar una beta.
+Solilo — _un espacio para ti._
