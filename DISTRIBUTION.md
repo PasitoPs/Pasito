@@ -1,6 +1,6 @@
 # Distribución oficial
 
-Este repositorio será el punto público de distribución de Pasito.
+Este repositorio será el punto público de distribución de Solilo.
 
 ## Canales previstos
 
@@ -25,7 +25,7 @@ Versiones de prueba anteriores a una publicación estable. Pueden contener cambi
 Una Release oficial deberá contener como mínimo:
 
 ```text
-Pasito_Setup_X.Y.Z.exe
+Solilo_Setup_X.Y.Z.exe
 update.json
 update.sig
 ```
@@ -34,7 +34,7 @@ El instalador es el archivo que ejecuta el usuario.
 
 `update.json` contiene los metadatos firmados de la versión.
 
-`update.sig` permite que Pasito compruebe que el manifiesto fue autorizado por la clave oficial del proyecto.
+`update.sig` permite que Solilo compruebe que el manifiesto fue autorizado por la clave oficial del proyecto.
 
 ## Regla de publicación
 
@@ -50,4 +50,5 @@ No se publicará una versión como estable hasta haber probado:
 
 ## Estado actual
 
-Todavía no hay una descarga pública disponible.
+La primera versión pública es **Solilo v0.34.0** (beta). Las descargas oficiales
+están en la sección **Releases** de este repositorio.

@@ -1,18 +1,18 @@
-# Privacidad de Pasito
+# Privacidad de Solilo
 
-Última actualización: 22 de septiembre de 2026.
+Última actualización: 10 de octubre de 2026.
 
 ## Resumen
 
-Pasito está diseñado como una aplicación local para Windows. El objetivo es que los escritos personales permanezcan en el equipo del usuario y no dependan de una cuenta en la nube.
+Solilo está diseñado como una aplicación local para Windows. El objetivo es que los escritos personales permanezcan en el equipo del usuario y no dependan de una cuenta en la nube.
 
 ## Datos personales
 
-Pasito no requiere, para su funcionamiento básico:
+Solilo no requiere, para su funcionamiento básico:
 
 - registro por correo electrónico;
 - número de teléfono;
-- cuenta de usuario en un servidor de Pasito;
+- cuenta de usuario en un servidor de Solilo;
 - sincronización obligatoria con la nube.
 
 Los perfiles se crean localmente en cada instalación.
@@ -21,11 +21,11 @@ Los perfiles se crean localmente en cada instalación.
 
 Los escritos y la configuración privada se almacenan en el equipo del usuario.
 
-Pasito utiliza archivos privados asociados a cada perfil. Cuando un perfil utiliza contraseña, la protección depende de esa contraseña y del esquema criptográfico de la aplicación. Cuando un perfil no utiliza contraseña, Windows protege la clave del perfil para la sesión correspondiente.
+Solilo utiliza archivos privados asociados a cada perfil. Cuando un perfil utiliza contraseña, la protección depende de esa contraseña y del esquema criptográfico de la aplicación. Cuando un perfil no utiliza contraseña, Windows protege la clave del perfil para la sesión correspondiente.
 
 ## Telemetría y analítica
 
-La versión actual de Pasito no incorpora telemetría ni analítica de uso.
+La versión actual de Solilo no incorpora telemetría ni analítica de uso.
 
 No se recopilan deliberadamente escritos, títulos, emociones, fotos de perfil, fondos, contraseñas o claves de recuperación para enviarlos al creador.
 
@@ -39,7 +39,7 @@ Una actualización debe superar verificaciones criptográficas antes de ser ofre
 
 ## Exportaciones
 
-Si el usuario exporta un escrito a un formato legible como TXT, Word o Markdown, esa copia queda fuera del almacenamiento privado de Pasito y pasa a depender de dónde decida guardarla el usuario.
+Si el usuario exporta un escrito a un formato legible como TXT, Word o Markdown, esa copia queda fuera del almacenamiento privado de Solilo y pasa a depender de dónde decida guardarla el usuario.
 
 ## Respaldos
 
