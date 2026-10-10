@@ -39,7 +39,7 @@ Tus escritos permanecen en tu computador, sin necesidad de crear cuentas ni util
 - **Crear perfiles personales:** organiza tus espacios de escritura.
 - **Personalizar tu experiencia:** elige entre diferentes temas y opciones de apariencia.
 - **Proteger tus recuerdos:** tus escritos se almacenan localmente con cifrado.
-- **Conservar tu historia:** importa escritos compatibles de versiones anteriores de Pasito.
+- **Conservar tu historia:** vuelve a tus escritos cuando quieras y continúa donde lo dejaste.
 - **Recibir actualizaciones:** Solilo verifica la autenticidad de las actualizaciones antes de instalarlas.
 
 ## Descarga e instalación
