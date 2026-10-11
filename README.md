@@ -1,8 +1,8 @@
-﻿<p align="center">
-  <img src="assets/Solilo_Logo.png" alt="Logo de Solilo" width="160">
+<p align="center">
+  <img src="assets/Solilo_Titulo_GitHub.png" alt="Solilo" width="650">
 </p>
 
-<h1 align="center">Solilo</h1>
+
 
 <p align="center">
   <strong>by PasitoPs</strong>
@@ -58,9 +58,41 @@ Solilo está disponible para Windows en dos versiones:
 3. Ejecútalo y sigue las instrucciones.
 4. Abre Solilo, crea tu perfil y empieza a escribir.
 
-## Un vistazo a Solilo
+## Conoce Solilo
 
-Próximamente añadiremos capturas reales para que puedas conocer la aplicación antes de descargarla.
+### 1. Tu espacio de escritura
+
+Escribe, guarda, edita y organiza tus pensamientos y recuerdos. Personaliza los colores y las imagenes de fondo para crear un espacio a tu gusto.
+
+<p align="center">
+  <img src="capturas/01_Menu.png" alt="Menu principal de Solilo" width="850">
+</p>
+
+### 2. Perfiles personales y protegidos
+
+Crea perfiles independientes para organizar tus escritos. Puedes proteger cada perfil con una contraseña si lo deseas.
+
+<p align="center">
+  <img src="capturas/02_Perfiles.png" alt="Perfiles de Solilo" width="850">
+</p>
+
+### 3. Personalizacion a tu manera
+
+Explora diferentes temas, cambia colores y configura imagenes de fondo para adaptar Solilo a tu estilo.
+
+<p align="center">
+  <img src="capturas/03_Personalizacion.png" alt="Personalizacion de Solilo" width="850">
+</p>
+
+### 4. Control de musica (BETA)
+
+Consulta la cancion que estas escuchando, controla la reproduccion, cambia de pista y ajusta el volumen general del computador.
+
+Esta funcion todavia esta en desarrollo y ofrece controles basicos.
+
+<p align="center">
+  <img src="capturas/04_Musica_Beta.png" alt="Control de musica de Solilo" width="850">
+</p>
 
 ## Privacidad
 
