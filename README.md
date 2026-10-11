@@ -1,6 +1,9 @@
 <p align="center">
   <img src="assets/Solilo_Titulo_GitHub.png" alt="Solilo" width="650">
 </p>
+<p align="center">
+  <img src="assets/Hamlet_Transparente.png" alt="Hamlet" width="260">
+</p>
 
 
 
